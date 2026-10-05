@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate backend engineer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Python & Django Rest Framework**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Django, DRF**
+- 👯 I’m looking to collaborate on **Python, Django, DRF**
 
 - 💬 Ask me about **Python,Django, DRF**
 
